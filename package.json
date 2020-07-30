@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@firebase/app": "^0.6.9",
+    "@sentry/react": "^5.20.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -10,9 +12,13 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "@types/react-router-dom": "^5.1.5",
+    "firebase": "^7.17.1",
+    "react": "^0.0.0-experimental-4c8c98ab9",
+    "react-dom": "^0.0.0-experimental-4c8c98ab9",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "reactfire": "^2.0.3",
     "typescript": "~3.7.2"
   },
   "scripts": {
