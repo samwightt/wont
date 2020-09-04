@@ -21,7 +21,7 @@
     "firebase": "^7.17.1",
     "formik": "^2.1.5",
     "moment-timezone": "^0.5.31",
-    "react": "^0.0.0-experimental-4c8c98ab9",
+    "react": "^0.14.0",
     "react-dom": "^0.0.0-experimental-4c8c98ab9",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
